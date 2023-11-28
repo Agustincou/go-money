@@ -1,3 +1,3 @@
-module github.com/Rhymond/go-money
+module github.com/Agustincou/go-money
 
 go 1.13
